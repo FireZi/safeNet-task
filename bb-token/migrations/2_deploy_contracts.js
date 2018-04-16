@@ -1,5 +1,5 @@
 var Token = artifacts.require("./Token.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(Token, "b81d5ec7a8ce67dc4601f72fc3d701ff71f2c513");
+  deployer.deploy(Token, "0x8226b1072dbd69b3ee7d9a1ab05dce1f6dbe1861");
 };

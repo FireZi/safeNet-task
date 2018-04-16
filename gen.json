@@ -6,9 +6,8 @@
         "eip158Block": 0
     },
   "alloc"      : {
-        "8226b1072dbd69b3ee7d9a1ab05dce1f6dbe1861": { "balance": "0" },
+        "8226b1072dbd69b3ee7d9a1ab05dce1f6dbe1861": { "balance": "100000000000000000000" },
         "b81d5ec7a8ce67dc4601f72fc3d701ff71f2c513": { "balance": "100000000000000000000" },
-        "1821605d47d803f457057aa45ad5b3d4891be38a": { "balance": "100000000000000000000" },
         "652523c8aaf77ab898e4225a9dd31c419c6cd54f": { "balance": "0" }
   },
   "coinbase"   : "0x0000000000000000000000000000000000000000",
