@@ -1,3 +1,4 @@
 /datadir/geth*
 /datadir/history
+/bb-token/build/
 log
